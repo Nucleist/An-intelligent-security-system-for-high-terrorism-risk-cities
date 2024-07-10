@@ -1,5 +1,4 @@
-This is the code for my science fair project: "ISTC". You can check the in-depth summary of my work through this link :
-https://www.googlesciencefair.com/projects/2018/6add5a4e549d36855f1d4fea932d0e96d9b38037d149b735c46adeaed0d329b3
+This is the code for my science fair project: "ISTC".
 
 The system is based on a 3-part-cyclic process : prediction thanks to a natural language processing method and latest social media posts, detection thanks to an autonomous sound weapon detector and an instant solution through a notification system connecting the user to the system's server using Firebase. Many enhancements could be added when it comes to networks' architectures, optimization methods, hyperparameters tuning ...
 
