@@ -8,4 +8,4 @@ I've been working on this research since June 2018 and as far as i could tell I 
 I believe that by combining recent frameworks with cutting-edge research in deep learning, we could deploy a sustainable platform that aims at minimizing the time response to terrorist attacks. Thus, the casualties could be reduced.
 Feel free to play with my implementations and give me your feedback !
 
-E-mail : bendaoudhedi@yahoo.fr
+E-mail : nucleisthedi@gmail.com
